@@ -28,4 +28,4 @@ This is an improved version for my personal needs.
 - LOOP : Exit of Loop
 
 This mapping is fully set for the controller's four decks.
-Only the VU meters and the % and pitch lines in the LCD screens don't work in the original mapping.
+Only the VU meters and the % and pitch lines in the LCD screens don't work in the original mapping. BPM and Time work well in the LCD screens.
