@@ -11,7 +11,7 @@ This is an improved version for my personal needs.
 - Corrected an error in the original XML file that prevented the mapping to load, causing Mixxx to display an error message about line 5.
 - FX BEATS knob : headphone mix min/max
 - FX TAP button : starts/stops Auto DJ
-- FX pads : the first 3 ones toggle FX unit 1 effect slots, the second 3 ones toggle FX unit 2 effet slots
+- FX pads : the first 3 ones toggle FX unit 1 effect slots, the 4th, 5th and 6th ones toggle FX unit 2 effect slots
 - Left and Right Hold/On switches : the left one activates/stops recording, the right one toggles Shuffle the content of Auto DJ queue
 - CUE GAIN knob : headphones vol.
 - CUE MIX knob : FX unit 2 Super Knob
