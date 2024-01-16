@@ -32,4 +32,5 @@ Here are the changes I've made to the original mapping, using Mixxx's MIDI learn
 
 This mapping is fully set for the controller's four decks.
 Only the VU meters and the % and pitch lines in the LCD screens don't work in the original mapping. BPM and Time are siplayed correctly in the LCD screens.
+
 About SHIFT button : I couldn't make it work, Mixxx sees the SHIFT button as a signal in itself, can't use it to use secondary functions on buttons.
