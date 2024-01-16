@@ -8,6 +8,8 @@ This is a project based on the Numark Mixtrack Platinum from Matthew Nicholson. 
 
 This is an improved version for my personal needs.
 
+Here are the changes I've made to the original mapping, using Mixxx's MIDI learning feature :
+
 - Corrected an error in the original XML file that prevented the mapping to load, causing Mixxx to display an error message about line 5.
 - FX BEATS knob : headphone mix min/max
 - FX TAP button : starts/stops Auto DJ
