@@ -28,7 +28,7 @@ Here are the changes I've made to the original mapping, using Mixxx's MIDI learn
     - Fast Forward : Hot CUE 2
 - IN : Start of Loop
 - OUT : End of Loop
-- LOOP : Exit of Loop
+- LOOP : Exit Loop
 
 This mapping is fully set for the controller's four decks.
 Only the VU meters and the % and pitch lines in the LCD screens don't work in the original mapping. BPM and Time are siplayed correctly in the LCD screens.
