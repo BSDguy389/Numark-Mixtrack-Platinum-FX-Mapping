@@ -17,3 +17,4 @@ Performance pads :
 - SAMPLE : loop roll beats 1/4
 
 This is mapped on the four decks.
+The other main branch functions stay the same.
