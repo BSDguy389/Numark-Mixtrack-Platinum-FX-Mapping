@@ -5,6 +5,8 @@ CHANGES :
 - PITCH BEND + (KEY LOCK) : key lock
 - PITCH BEND - (PITCH RANGE) : PITCH RANGE : match key
 - LOOP button : reset key
+- 1/2 : rebecame like default mapping (1/2)
+- X2 : rebecame like default mapping (X2)
 
 Performance pads :
 - CUE : beat jump backward
