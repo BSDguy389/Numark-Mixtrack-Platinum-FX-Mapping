@@ -2,7 +2,9 @@ I figured out that some buttons on the original mapping were nicely mapped, so i
 
 CHANGES :
 
-- LOOP button : match key
+- PITCH BEND + (KEY LOCK) : key lock
+- PITCH BEND - (PITCH RANGE) : PITCH RANGE : match key
+- LOOP button : reset key
 
 Performance pads :
 - CUE : beat jump backward
