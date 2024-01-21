@@ -2,6 +2,7 @@ I figured out that some buttons on the original mapping were nicely mapped, so i
 
 CHANGES :
 
+- corrected line 5 of the .xml file
 - PITCH BEND + (KEY LOCK) : key lock
 - PITCH BEND - (PITCH RANGE) : PITCH RANGE : match key
 - LOOP button : reset key
