@@ -2,8 +2,8 @@ I figured out that some buttons on the original mapping were nicely mapped, so i
 
 CHANGES :
 
-- CUE : rebecame like default mapping (CUE)
 - corrected line 5 of the .xml file
+- CUE : rebecame like default mapping (CUE)
 - PITCH BEND + (KEY LOCK) : key lock
 - PITCH BEND - (PITCH RANGE) : PITCH RANGE : match key
 - LOOP button : reset key
