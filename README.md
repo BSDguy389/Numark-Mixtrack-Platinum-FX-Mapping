@@ -1,3 +1,5 @@
+NOTE : this mapping is now outdated, newest version that fixes LCD screens and performance pads modes is here : https://github.com/evoixmr/mixxx/blob/2.4/res/controllers/Numark-Mixtrack-Platinum-FX-scripts.js and here : https://github.com/evoixmr/mixxx/blob/2.4/res/controllers/Numark%20Mixtrack%20Platinum%20FX.midi.xml
+
 I figured out that some buttons on the original mapping were nicely mapped, so in order to stay as close as possible from it, I decided to publish this new version of the mapping fork.
 
 CHANGES :
