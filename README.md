@@ -1,6 +1,11 @@
 # Numark-Mixtrack-Platinum-FX-Mapping
 Mixxx DJ Controller Mapping for Numark-Mixtrack-Platinum-FX
 
+NOTE : this mapping is now outdated, a newer mapping that works perfectly for performance pads modes and LCD screens can be found here :
+
+https://github.com/evoixmr/mixxx/blob/2.4/res/controllers/Numark-Mixtrack-Platinum-FX-scripts.js
+and here :
+https://github.com/evoixmr/mixxx/blob/2.4/res/controllers/Numark%20Mixtrack%20Platinum%20FX.midi.xml
 
 Welcome to the Numark-Mixtrack-Platinum-FX-Mapping wiki!
 
